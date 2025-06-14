@@ -13,7 +13,7 @@ import StudentLife from './pages/student-life/StudentLife.jsx';
 import Contact from './pages/contact/Contact.jsx';
 
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
   Redirect,
@@ -33,6 +33,8 @@ function App() {
   return (
     <Router>
       <Routes>
+        <Route path="/" element={<Navigate to="/home" />} />
+
         <Route path="/home" element={
           <div className="app-wrapper">
           <div className="header">
