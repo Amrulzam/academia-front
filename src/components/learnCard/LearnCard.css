@@ -78,3 +78,31 @@
         height: 350px ;
     }
 }
+
+@media screen and (max-width:430px) {
+    .learn-card-wrapper>.learn-img > img{
+        width: auto;
+        width: 175px;
+        height: 130px;
+        border-radius: 8px;
+        border: 1px solid #000;
+    }
+
+    .learn-card-wrapper{
+        height: 300px ;
+    }
+}
+
+@media screen and (max-width:390px) {
+    .learn-card-wrapper>.learn-img > img{
+        width: auto;
+        width: 135px;
+        height: 100px;
+        border-radius: 8px;
+        border: 1px solid #000;
+    }
+
+    .learn-card-wrapper{
+        height: 300px ;
+    }
+}

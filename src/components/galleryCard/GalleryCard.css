@@ -51,3 +51,25 @@
     font-size: 1.1rem;
     padding: 10px 0;
 }
+
+@media screen and (max-width:400px) {
+    .gallery-card-wrapper > .gallery-img{
+        overflow: auto;
+    }
+    .gallery-card-wrapper > .gallery-desc{
+        margin-top: 120px;
+    }
+    .gallery-card-wrapper > .gallery-img> li{
+        padding: 10px;
+    }
+    .gallery-card-wrapper > .gallery-img> li > img{
+        width: 150px;
+        height: 120px;
+        border-radius: 8px;
+        border: 1px solid #000;
+    }
+
+    .gallery-card-wrapper{
+        height: 350px ;
+    }
+}
