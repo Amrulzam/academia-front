@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/academia-front/static/css/main.7a8b465f.css",
+    "main.css": "/academia-front/static/css/main.79eb42b2.css",
     "main.js": "/academia-front/static/js/main.09828a49.js",
     "static/js/453.d855a71b.chunk.js": "/academia-front/static/js/453.d855a71b.chunk.js",
     "static/media/pic4.jpg": "/academia-front/static/media/pic4.97ce8c0b045ea8c6aa22.jpg",
@@ -27,12 +27,12 @@
     "static/media/pic1 (6).jpg": "/academia-front/static/media/pic1 (6).9fa4894ea208c39a7ed1.jpg",
     "static/media/logo.svg": "/academia-front/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/academia-front/index.html",
-    "main.7a8b465f.css.map": "/academia-front/static/css/main.7a8b465f.css.map",
+    "main.79eb42b2.css.map": "/academia-front/static/css/main.79eb42b2.css.map",
     "main.09828a49.js.map": "/academia-front/static/js/main.09828a49.js.map",
     "453.d855a71b.chunk.js.map": "/academia-front/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a8b465f.css",
+    "static/css/main.79eb42b2.css",
     "static/js/main.09828a49.js"
   ]
 }
